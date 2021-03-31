@@ -10,8 +10,8 @@
       "fat": 0.4,
       "calories": 52,
       "sugar": 10.3,
-      "ratings": 8,
-      "comments": "Apples are extremely healthy"
+      "ratings": "8",
+      "comments": "I hate apples"
     },
     {
       "genus": "Prunus",
@@ -36,8 +36,8 @@
       "fat": 0.2,
       "calories": 96,
       "sugar": 17.2,
-      "ratings": "3",
-      "comments": "Yellow"
+      "ratings": "4",
+      "comments": "Standard Healthy banana!"
     },
     {
       "genus": "Fragaria",
@@ -49,8 +49,8 @@
       "fat": 0.4,
       "calories": 29,
       "sugar": 5.4,
-      "ratings": "7",
-      "comments": "I hate blueberries"
+      "ratings": "8",
+      "comments": "Blueberries are good for you!"
     },
     {
       "genus": "Prunus",
@@ -62,8 +62,8 @@
       "fat": 0.3,
       "calories": 50,
       "sugar": 8,
-      "ratings": 9,
-      "comments": "This cherry is delicious!"
+      "ratings": "9",
+      "comments": "My Favorite Sweet Cherry Pie!"
     }
   ]
 }
