@@ -10,7 +10,7 @@
       "fat": 0.4,
       "calories": 52,
       "sugar": 10.3,
-      "ratings": "8",
+      "ratings": "4",
       "comments": "I hate apples"
     },
     {
@@ -23,8 +23,8 @@
       "fat": 0.1,
       "calories": 15,
       "sugar": 3.2,
-      "ratings": 6,
-      "comments": "Apricots are amazing!"
+      "ratings": "7",
+      "comments": "Yummy Apricots!"
     },
     {
       "genus": "Musa",
@@ -62,8 +62,8 @@
       "fat": 0.3,
       "calories": 50,
       "sugar": 8,
-      "ratings": "9",
-      "comments": "My Favorite Sweet Cherry Pie!"
+      "ratings": "10",
+      "comments": "Cherry Pie!"
     }
   ]
 }
