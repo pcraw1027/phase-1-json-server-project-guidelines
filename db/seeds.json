@@ -1,59 +1,69 @@
 {
-  "Fruit":[
-  {
-  "genus": "Malus",
-  "name": "Apple",
-  "id": 6,
-  "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fi2.wp.com%2Fceklog.kindel.com%2Fw[…]nt=safari&ved=2ahUKEwj88JrBxNbvAhXkAt8KHcq9D9cQMygDegUIARDZAQ",
-  "carbohydrates": 11.4,
-  "protein": 0.3,
-  "fat": 0.4,
-  "calories": 52,
-  "sugar": 10.3,
-  "likes": 0
-}, {
-  "genus": "Prunus",
-  "name": "Apricot",
-  "id": 35,
-  "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.irandriedfruit.com%2Fwp-conte[…]nt=safari&ved=2ahUKEwjBgabjxNbvAhXJi-AKHVp1BDoQMygKegUIARD8AQ",
-  "carbohydrates": 3.9,
-  "protein": 0.5,
-  "fat": 0.1,
-  "calories": 15,
-  "sugar": 3.2,
-  "likes": 0
-}, {
-  "genus": "Musa",
-  "name": "Banana",
-  "id": 1,
-  "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fthumbs-prod.si-cdn.com%2FGQWa1qJU[…]nt=safari&ved=2ahUKEwj4h77KxNbvAhVPnuAKHapyADQQMygOegUIARDzAQ",
-  "carbohydrates": 22,
-  "protein": 1, 
-  "fat": 0.2,
-  "calories": 96,
-  "sugar": 17.2,
-  "likes": 0
-}, {
-  "genus": "Fragaria",
-  "name": "Blueberry",
-  "id": 33,
-  "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.healthyfood.com%2Fwp-conten[…]nt=safari&ved=2ahUKEwjjhr3UxNbvAhXKGN8KHb4qAeIQMygGegUIARD6AQ",
-  "carbohydrates": 5.5,
-  "protein": 0,
-  "fat": 0.4,
-  "calories": 29,
-  "sugar": 5.4,
-  "likes": 0
-}, {
-  "genus": "Prunus",
-  "name": "Cherry",
-  "id": 9,
-  "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.istockphoto.com%2Fphotos%2F[…]nt=safari&ved=2ahUKEwiU25-Ox9bvAhXRSt8KHca8B2wQMygNegUIARD8AQ",
-  "carbohydrates": 12,
-  "protein": 1,
-  "fat": 0.3,
-  "calories": 50,
-  "sugar": 8,
-  "likes": 0
-  }
-]}
+  "Fruit": [
+    {
+      "genus": "Malus",
+      "name": "Apple",
+      "id": 6,
+      "image": "https://images.unsplash.com/photo-1584306670957-acf935f5033c?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=666&q=80",
+      "carbohydrates": 11.4,
+      "protein": 0.3,
+      "fat": 0.4,
+      "calories": 52,
+      "sugar": 10.3,
+      "ratings": "4",
+      "comments": "I hate apples"
+    },
+    {
+      "genus": "Prunus",
+      "name": "Apricot",
+      "id": 35,
+      "image": "https://images.unsplash.com/photo-1593085225494-8685ae6048e2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=2466&q=80",
+      "carbohydrates": 3.9,
+      "protein": 0.5,
+      "fat": 0.1,
+      "calories": 15,
+      "sugar": 3.2,
+      "ratings": "7",
+      "comments": "Yummy Apricots!"
+    },
+    {
+      "genus": "Musa",
+      "name": "Banana",
+      "id": 1,
+      "image": "https://images.unsplash.com/photo-1528825871115-3581a5387919?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=2516&q=80",
+      "carbohydrates": 22,
+      "protein": 1,
+      "fat": 0.2,
+      "calories": 96,
+      "sugar": 17.2,
+      "ratings": "4",
+      "comments": "Standard Healthy banana!"
+    },
+    {
+      "genus": "Fragaria",
+      "name": "Blueberry",
+      "id": 33,
+      "image": "https://images.unsplash.com/photo-1564149503726-e6eedce479e2?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=2468&q=80",
+      "carbohydrates": 5.5,
+      "protein": 0,
+      "fat": 0.4,
+      "calories": 29,
+      "sugar": 5.4,
+      "ratings": "8",
+      "comments": "Blueberries are good for you!"
+    },
+    {
+      "genus": "Prunus",
+      "name": "Cherry",
+      "id": 9,
+      "image": "https://images.unsplash.com/photo-1517092975511-6c2757086077?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=668&q=80",
+      "carbohydrates": 12,
+      "protein": 1,
+      "fat": 0.3,
+      "calories": 50,
+      "sugar": 8,
+      "ratings": "10",
+      "comments": "Cherry Pie!"
+    }
+  ]
+}
